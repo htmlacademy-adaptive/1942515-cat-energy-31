@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../js"
+		},
+		{
+			"name": "cat-energy",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		]
+	}
+}
